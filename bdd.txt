@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><bdd><matrial nom="m" ref="m" statu="Non Corrompu"><piece nom="m" ref="m" statu="Non Corrompu"/></matrial></bdd>
